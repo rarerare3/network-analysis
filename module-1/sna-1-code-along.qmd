@@ -28,6 +28,8 @@ editor: visual
 
 ::: notes
 **Speaker Notes:**
+
+Here are some notes for myself that I will use when I am giving a presentation.
 :::
 
 # Prepare
